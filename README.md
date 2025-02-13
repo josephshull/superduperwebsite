@@ -1,2 +1,2 @@
 # superduperwebsite
-This Website Sure is NOT Super
+This Website Sure is Super
